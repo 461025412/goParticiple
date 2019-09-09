@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "O7TRQxdeK8nz/T5Z/88U8cx9VLw=",
+			"path": "github.com/astaxie/beego/config",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "jf/YI3zTT5/Dqvr0V2gLyWzlLbw=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "uTiyCSYgL+/p/M17L7rqVgP0RUU=",
+			"path": "github.com/pquerna/ffjson/ffjson",
+			"revision": "af8b230fcd2007c7095168ca8ab94c68b60840c6",
+			"revisionTime": "2018-07-17T14:41:49Z"
+		},
+		{
+			"checksumSHA1": "q+eUZELqiyDAi2OS/1FLFk7MDLg=",
+			"path": "github.com/pquerna/ffjson/fflib/v1",
+			"revision": "af8b230fcd2007c7095168ca8ab94c68b60840c6",
+			"revisionTime": "2018-07-17T14:41:49Z"
+		},
+		{
+			"checksumSHA1": "Yf+piZbsPVx/EA56+yJUWC7BAZw=",
+			"path": "github.com/pquerna/ffjson/fflib/v1/internal",
+			"revision": "af8b230fcd2007c7095168ca8ab94c68b60840c6",
+			"revisionTime": "2018-07-17T14:41:49Z"
+		}
+	],
+	"rootPath": "goParticiple"
+}
